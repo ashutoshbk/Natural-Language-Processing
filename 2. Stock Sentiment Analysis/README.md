@@ -1,4 +1,4 @@
-# Red Wine Quality Prediction
+# Stock Sentiment Analysis
 
 ## Introduction
 
