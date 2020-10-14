@@ -1,5 +1,5 @@
 # Spam Classifier
-![spam_mail](https://user-images.githubusercontent.com/49612207/96017202-56772000-0e67-11eb-8246-5ab0f046a720.jpg)
+		![spam_mail](https://user-images.githubusercontent.com/49612207/96017202-56772000-0e67-11eb-8246-5ab0f046a720.jpg)
 
 ## Introduction
 
