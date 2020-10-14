@@ -1,4 +1,5 @@
 # Spam Classifier
+![spam_mail](https://user-images.githubusercontent.com/49612207/96017202-56772000-0e67-11eb-8246-5ab0f046a720.jpg)
 
 ## Introduction
 
@@ -29,16 +30,14 @@ First-
 	Remove all symbols and converted into small letters and merge into one paragraph by using lemmatization.
 Second-	
 	I use CountVectorizer to convert text into vectors.
-
-
-	Use Naive Bayes classifier to train a model.
-
-
+	
 ## Split data
 Next I split the data into a training and test set so that I could cross-validate my models and determine their effectiveness.
 
 ## Modelling
 For this project, I use Naive Bayes classifier to train a model.
+
+![spamham](https://user-images.githubusercontent.com/49612207/96017233-60991e80-0e67-11eb-831a-2a639510633e.png)
 
 ## Result 
 Naive Bayes Classifier gives 98.38 accuracy.
