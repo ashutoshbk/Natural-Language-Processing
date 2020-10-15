@@ -26,7 +26,7 @@ This is a very beginner-friendly dataset. I did not have to deal with any missin
 
 ## Preparing Data for Modelling
 I prepare data in the following ways:
-1. Remove all symbols and converted into small letters and use lemmatization for meaningful words.
+1. Remove all puctuation and converted into small letters and use lemmatization for meaningful words.
 2. I use CountVectorizer to convert text into vectors.
 	
 ## Split data
