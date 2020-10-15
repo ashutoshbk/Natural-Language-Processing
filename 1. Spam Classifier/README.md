@@ -25,9 +25,9 @@ The collection is composed of just one text file. So, I create two columns "Labe
 This is a very beginner-friendly dataset. I did not have to deal with any missing values, and there isn’t much flexibility to conduct some feature engineering given these variables. Next, I wanted to explore my data a little bit more.
 
 ## Preparing Data for Modelling
-I prepare data in the following steps:
-	First-	Remove all symbols and converted into small letters and merge into one paragraph by using lemmatization.
-	Second-	I use CountVectorizer to convert text into vectors.
+I prepare data in the following ways:
+1. Remove all symbols and converted into small letters and merge into one paragraph by using lemmatization.
+2. I use CountVectorizer to convert text into vectors.
 	
 ## Split data
 Next, I split the data into a training and test set so that I could cross-validate my models and determine their effectiveness.
