@@ -26,10 +26,8 @@ This is a very beginner-friendly dataset. I did not have to deal with any missin
 
 ## Preparing Data for Modelling
 I prepare data in the following steps:
-First-	
-	Remove all symbols and converted into small letters and merge into one paragraph by using lemmatization.
-Second-	
-	I use CountVectorizer to convert text into vectors.
+	First-	Remove all symbols and converted into small letters and merge into one paragraph by using lemmatization.
+	Second-	I use CountVectorizer to convert text into vectors.
 	
 ## Split data
 Next, I split the data into a training and test set so that I could cross-validate my models and determine their effectiveness.
