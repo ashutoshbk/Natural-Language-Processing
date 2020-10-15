@@ -10,7 +10,7 @@ The collection is composed by just one text file, where each line has the correc
 	ham Ok lar... Joking wif u oni...
 	ham dun say so early hor... U c already then say...
 	ham MY NO. IN LUTON 0125698789 RING ME IF UR AROUND! H*
-ham Siva is in hostel aha:-.
+	ham Siva is in hostel aha:-.
 
 So, I create two columns one independent and one dependent as per above example.
 
